@@ -1,0 +1,8 @@
+pylint
+fastapi
+sqlalchemy
+alembic
+uvicorn[standard]
+psycopg2-binary
+python-dotenv
+asyncpg
